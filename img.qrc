@@ -1,0 +1,28 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>img/logo.png</file>
+        <file>img/order.png</file>
+        <file>img/seller.png</file>
+        <file>img/BigMac.png</file>
+        <file>img/CaesarSalad.png</file>
+        <file>img/ChocolateSauce.png</file>
+        <file>img/Coca-Cola.png</file>
+        <file>img/Coke.png</file>
+        <file>img/Croutons.png</file>
+        <file>img/CrushedNuts.png</file>
+        <file>img/Fanta.png</file>
+        <file>img/Fries.png</file>
+        <file>img/GrilledChickenPieces.png</file>
+        <file>img/IceCream.png</file>
+        <file>img/Juice.png</file>
+        <file>img/McChicken.png</file>
+        <file>img/McWings.png</file>
+        <file>img/MiniBurger.png</file>
+        <file>img/SpecialDressing.png</file>
+        <file>img/SpicyMcChicken.png</file>
+        <file>img/Sprite.png</file>
+        <file>img/meal.png</file>
+        <file>img/lyc.png</file>
+    </qresource>
+</RCC>
